@@ -7,7 +7,7 @@ This project simplifies organizing players, creating teams, scheduling matches, 
 ---
 
 ## 🚀 Features (Planned)
-- Player registration and profile management  
+- Coach registration and profile management  
 - Team creation and management  
 - Match scheduling  
 - Results tracking  
